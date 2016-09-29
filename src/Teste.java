@@ -8,7 +8,7 @@ public class Teste {
 
 	}
 	
-	void forTestMethod() {
+	void exercicio2ForTestMethod() {
 		for (int i = 0; i <= 10; i++) {
 			for (int j = 10; j < i; j--) {
 				if (i == j) {
